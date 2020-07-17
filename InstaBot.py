@@ -56,4 +56,4 @@ class Instabot:
 username = "username"
 password = "password"
 my_bot = Instabot(username, password)
-my_bot.get_unfollowers('aryanxarora')
+my_bot.get_unfollowers(username)
